@@ -2,7 +2,6 @@ body{
   font-family: tahoma;
   background-color: #efebe0;
   padding: 20px;
-  max-width: 800px;
   margin: 0 auto;
 }
 
@@ -64,9 +63,11 @@ h2{
   color: #806b63;
 }
 
-.review{
-  background: #efebe0;
-  margin: 10px 0;
+.customerreviews{
+  background-image: url("Background.png");
+  background-size: cover;       
+  background-position: center;
+  margin-top: 20px;
   border-radius: 20px;
   box-shadow: 0 2px 50px #e8c4c699;
   padding: 40px;
