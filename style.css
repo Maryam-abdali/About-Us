@@ -61,6 +61,7 @@ h2{
   padding: 40px;
   margin-top: 20px;
   color: #806b63;
+  text-align: center;
 }
 
 .customerreviews{
@@ -72,6 +73,7 @@ h2{
   box-shadow: 0 2px 50px #e8c4c699;
   padding: 40px;
   color: #806b63;
+  text-align: center;
 }
 
 .footer {
