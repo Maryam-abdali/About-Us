@@ -64,7 +64,7 @@ h2{
 }
 
 .customerreviews{
-  background-image: url("Background.png");
+  background-image: url("Background2.png");
   background-size: cover;       
   background-position: center;
   margin-top: 20px;
@@ -80,5 +80,5 @@ h2{
   text-align: center;
   padding: 20px;
   margin-top: 50px;
-  width:1900px;
+  width: 100%;
 }
